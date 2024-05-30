@@ -3,6 +3,10 @@
 <h4 align="center"> Complete code will be released soon.</h4>
 
 
+# Pre-trained Model Weights
+
+bb
+
 
 # Visualization of Clustering Results
 
@@ -11,6 +15,3 @@ The following is a visualization of the clustering results, which can be output 
 <img src="figs/Clustering Results.png" width="100%">
 </figure>
 
-# Pre-trained Model Weights
-
-bb
