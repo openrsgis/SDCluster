@@ -6,7 +6,9 @@
 
 # Visualization of Clustering Results
 
-aa
+<figure align="center">
+<img src="figs/Clustering Results.png" width="100%">
+</figure>
 
 # Pre-trained Model Weights
 
