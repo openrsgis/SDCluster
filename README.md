@@ -1,13 +1,13 @@
 <h1 align="center"> SDCluster: A Cluster based Self-supervised Pre-training Method for Semantic Segmentation of Remote Sensing Images </h1>
 <p align="center">
-<h4 align="center">Code will be released soon.</h4>
+<h4 align="center"> Complete code will be released soon.</h4>
 
 
 
-# Visualization of clustering results
+# Visualization of Clustering Results
 
 aa
 
-# Pre-trained model weights
+# Pre-trained Model Weights
 
 bb
