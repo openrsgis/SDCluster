@@ -6,7 +6,7 @@
 
 # Visualization of Clustering Results
 
-The following is a visualization of the clustering results, which can be output using the ?? program by reading our prepared pre-trained models.
+The following is a visualization of the clustering results, which can be output using the ?? program by loading our prepared pre-trained models.
 <figure align="center">
 <img src="figs/Clustering Results.png" width="100%">
 </figure>
