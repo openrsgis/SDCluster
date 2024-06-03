@@ -1,1 +1,11 @@
+embed_dim: 96
+depths: [ 2, 2, 18, 2 ]
+num_heads: [ 3, 6, 12, 24 ]
+windows_size: 7
+
+model:
+  num_prototypes: 256
+  dim_hidden: 2048
+  dim_out: 256
+
 
