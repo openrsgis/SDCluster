@@ -5,7 +5,9 @@
 
 ## Pre-trained Model Weights
 
-bb
+|Model Name|Training Dataset|\#params|Download|
+|-|-|-|-|
+|Swin Transformer-Small (Swin-S)|Million-AID|49M|[Swin-S.pt]([https://drive.google.com/file/d/1AcsTRsgHAwOROfq1qsa709kdKHleFmE0/view?usp=drive_link]|
 
 
 ## Visualization of Clustering Results
