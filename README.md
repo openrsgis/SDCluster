@@ -7,7 +7,7 @@
 
 |Model Name|Training Dataset|\#params|Download|
 |-|-|-|-|
-|Swin Transformer-Small (Swin-S)|Million-AID|49M|[Swin-S.pt](https://drive.google.com/file/d/13y7xCuirvglxvVMfYGQ7qOmq4Y6H2BeI/view?usp=sharing)|
+|[Swin Transformer-Small (Swin-S)](cluster_eval/model/backbone/swin_transformer.py)|Million-AID|49M|[Swin-S.pt](https://drive.google.com/file/d/13y7xCuirvglxvVMfYGQ7qOmq4Y6H2BeI/view?usp=sharing)|
 
 
 ## Visualization of Clustering Results
