@@ -12,7 +12,7 @@
 
 ## Visualization of Clustering Results
 
-The following is a visualization of the clustering results, which can be output using the ?? program by loading our prepared pre-trained models.
+The following is a visualization of the clustering results, which can be output using the [vis_cluster.py](cluster_eval/vis_cluster.py) by loading our prepared pre-trained models.
 <figure align="center">
 <img src="figs/Clustering Results.png" width="100%">
 </figure>
