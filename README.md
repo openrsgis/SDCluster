@@ -10,6 +10,7 @@
 |-|-|-|-|-|
 |[Swin Transformer-Small (Swin-S)](cluster_eval/model/backbone/swin_transformer.py)|Million-AID|49M|[Swin-S.pt](https://drive.google.com/file/d/13y7xCuirvglxvVMfYGQ7qOmq4Y6H2BeI/view?usp=sharing)|[Swin-S.pt](https://pan.baidu.com/s/1juYLPc49l-OfVctW1-ROMw?pwd=qkao)|
 
+
 ### Clustering Network
 
 |Model Name|Training Dataset|\#params|Download(Google)|Download(Baidu)|
