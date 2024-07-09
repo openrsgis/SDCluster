@@ -26,5 +26,7 @@ The following are some clustering results, which can be output using the [vis_cl
 ## License
 This project is for research purpose only.
 
+## Acknowledgement
+We would like to acknowledge the contributions of public projects, such as [Swin-Transformer](https://github.com/microsoft/Swin-Transformer), [leopart](https://github.com/MkuuWaUjinga/leopart), and [SlotCon](https://github.com/CVMI-Lab/SlotCon) , whose code has been utilized in this repository.
 
 
