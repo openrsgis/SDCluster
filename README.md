@@ -17,8 +17,10 @@
 |-|-|-|-|-|
 |[ClusterEval](cluster_eval/model/cluster_eval.py)|Million-AID|55M|[ClusterEval.pt](https://drive.google.com/file/d/1QhuBebahHP6AvSEZ1hcNsZyHuAEJ7GZ3/view?usp=sharing)|[ClusterEval.pt](https://pan.baidu.com/s/1W7pRgOonUymQmfjIPnGvRA?pwd=mho4)|
 
-## Visualization of Clustering Results
+## Pre-training
+The [main_pretrain.py](pretrain/main_pretrain.py) is example of re-implementing SDCluster pre-training on custom dataset.
 
+## Visualization of Clustering Results
 The following are some clustering results, which can be output using the [vis_cluster.py](cluster_eval/vis_cluster.py) by loading our prepared models [ClusterEval.pt](https://drive.google.com/file/d/1QhuBebahHP6AvSEZ1hcNsZyHuAEJ7GZ3/view?usp=sharing).
 <figure align="center">
 <img src="figs/Clustering Results.png" width="100%">
