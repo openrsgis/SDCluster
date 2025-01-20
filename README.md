@@ -26,6 +26,9 @@ The following are some clustering results, which can be output using the [vis_cl
 <img src="figs/Clustering Results.png" width="100%">
 </figure>
 
+## Dataset
+The Shaanxi building extraction dataset can be available at [https://zenodo.org/records/12531251](https://zenodo.org/records/12531251).
+
 ## License
 This project is for research purpose only.
 
