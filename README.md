@@ -1,6 +1,7 @@
 <h1 align="center"> SDCluster: A clustering based self-supervised pre-training method for semantic segmentation of remote sensing images </h1>
 <p align="center">
 
+This repository is the official implementation of [SDCluster: A clustering based self-supervised pre-training method for semantic segmentation of remote sensing images](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000796).
 
 ## Pre-trained Model Weights
 
