@@ -33,6 +33,20 @@ The following are some clustering results, which can be output using the [vis_cl
 ## Dataset
 The Shaanxi building extraction dataset can be available at [https://zenodo.org/records/12531251](https://zenodo.org/records/12531251).
 
+## Citation
+If this work is helpful for your research, please consider citing us.
+```
+@article{xu2025sdcluster,
+  title={SDCluster: A clustering based self-supervised pre-training method for semantic segmentation of remote sensing images},
+  author={Xu, Hanwen and Zhang, Chenxiao and Yue, Peng and Wang, Kaixuan},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={223},
+  pages={1--14},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
 ## License
 This project is for research purpose only.
 
